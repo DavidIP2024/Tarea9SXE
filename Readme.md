@@ -109,23 +109,11 @@ También revisé dónde se puede activar desde Ajustes y consulté los nombres t
 
 ## 7. Tabla incidencias
 
-Durante la práctica fui solucionando las dudas y pequeños problemas que me fueron apareciendo mientras configuraba Odoo y realizaba los ejercicios.
+Durante la práctica me surgieron algunas dudas al utilizar Odoo, sobre todo al buscar ciertas opciones y consultar la información técnica.
 
-Fecha
-
-Síntoma
-
-Causa
-
-Solución
-
-24/11/2026
-
-No encontraba algunas opciones del modo desarrollador.
-
-Estaban dentro del menú de herramientas de desarrollador.
-
-Revisé las opciones desde el icono del escarabajo y los ajustes de Odoo.
+| Fecha | Síntoma | Causa | Solución aplicada |
+|-------|---------|-------|------------------|
+| 24/11/2026 | No encontraba algunas opciones del modo desarrollador. | No tenía claro dónde estaban situadas dentro de Odoo. | Consulté las opciones desde el icono del escarabajo y el menú de Ajustes. |
 
 ## 8. Declaracón uso de IA
 
