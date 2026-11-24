@@ -106,3 +106,29 @@ Primero lo activé añadiendo `?debug=1` a la dirección de Odoo. Después compr
 También revisé dónde se puede activar desde Ajustes y consulté los nombres técnicos de algunos campos del formulario de contactos y el modelo de las facturas.
 
 ![Desarrollador.png](Capturas/Desarrollador.png)![Desarrollador 2.png](Capturas/Desarrollador%202.png)![Final.png](Capturas/Final.png)
+
+## 7. Tabla incidencias
+
+Durante la práctica fui solucionando las dudas y pequeños problemas que me fueron apareciendo mientras configuraba Odoo y realizaba los ejercicios.
+
+Fecha
+
+Síntoma
+
+Causa
+
+Solución
+
+24/11/2026
+
+No encontraba algunas opciones del modo desarrollador.
+
+Estaban dentro del menú de herramientas de desarrollador.
+
+Revisé las opciones desde el icono del escarabajo y los ajustes de Odoo.
+
+## 8. Declaracón uso de IA
+
+Para realizar esta práctica utilicé ChatGPT como ayuda para resolver dudas sobre Odoo, seguir los pasos de los ejercicios y preparar el README.
+
+También utilicé sus respuestas como orientación, comprobando los pasos dentro de mi propia instalación de Odoo y adaptando los textos para que coincidieran con lo que realmente había realizado.
